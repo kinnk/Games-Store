@@ -11,7 +11,7 @@
 
 .gameItem:not(:last-child){
   margin-bottom: 30px;
-  margin-right: 50px;
+  margin-right: 70px;
 }
 
 .gameItem-details{

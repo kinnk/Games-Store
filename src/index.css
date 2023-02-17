@@ -19,9 +19,9 @@ a{
 }
 
 .App{
-  max-width: 1180px;
+  max-width: 1170px;
   margin: 0 auto;
-  padding: 40px;
+  padding: 0 15px;
   color: #FFFFFF;
 }
 
